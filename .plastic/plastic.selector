@@ -1,0 +1,4 @@
+repository "JAMTEK2@DarkyDEV@cloud"
+  path "/"
+    br "/main"
+    co "/main"
