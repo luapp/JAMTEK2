@@ -837,4 +837,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: /Users/paul/Desktop/Unity Project/JAMTEK2/WINx64/JAMTEK2.exe
+  playerPath: /Users/paul/Desktop/Unity Project/JAMTEK2/WinBuild/JAMTEK2.exe

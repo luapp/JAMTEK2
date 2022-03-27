@@ -837,4 +837,4 @@ ScriptsOnlyBuild:
   platform: 2
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: /Users/paul/Desktop/Unity Project/JAMTEK2/MacM1Build.app
+  playerPath: /Users/paul/Desktop/Unity Project/JAMTEK2/MacUniversalBuild.app
